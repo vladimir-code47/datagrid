@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "Vlado",
+      "email": "",
+      "phone": "",
+      "dob": "",
+      "week": "1",
+      "day": "Ponedjeljak",
+      "region": "ZG",
+      "storeName": "Kaufland",
+      "storeAddress": "BB122",
+      "badelProducts": "cdscds + ad +adad +asdsf +fsv",
+      "wmProducts": "cdscds + ad +adad +asdsf +fsv",
+      "id": 2
+    },
+    {
+      "name": "Vladimir Gjuran",
+      "email": "",
+      "phone": "",
+      "dob": "",
+      "week": "4",
+      "day": "Ponedjeljak",
+      "region": "ZG",
+      "storeName": "Bipa",
+      "storeAddress": "8",
+      "badelProducts": "cdscds + ad +adad +asdsf +fsv",
+      "wmProducts": "cdscds + ad +adad +asdsf +fsv",
+      "id": 6
+    },
+    {
+      "name": "test test",
+      "email": "",
+      "phone": "",
+      "dob": "",
+      "storeAddress": "8",
+      "week": "2",
+      "id": 9
+    },
+    {
+      "name": "Jane Good",
+      "email": "",
+      "phone": "",
+      "dob": "",
+      "id": 10
+    },
+    {
+      "name": "Jan",
+      "email": "",
+      "phone": "",
+      "dob": "",
+      "week": "4",
+      "day": "Ponedjeljak",
+      "region": "Zagreb",
+      "storeName": "Konzum",
+      "storeAddress": "8",
+      "badelProducts": "xpreh + teh + indec",
+      "wmProducts": "cdscds + ad +adad +asdsf +fsv",
+      "id": 11
+    },
+    {
+      "name": "bla bvla",
+      "email": "",
+      "phone": "",
+      "dob": "",
+      "week": "1",
+      "day": "Četvrtak",
+      "region": "Split",
+      "storeName": "Tommy",
+      "storeAddress": "Ulica 22",
+      "badelProducts": "ert + rweer +wer + sdxf ftdh",
+      "id": 12
+    }
+  ]
+}
