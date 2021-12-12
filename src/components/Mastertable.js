@@ -21,7 +21,7 @@ export default function MasterTable() {
 		setOpen(false);
 		setFormData(initialValue);
 	};
-	const url = `http://localhost:4700/users`;
+	const url = `http://localhost:470/users`;
 
 	/* const columnDefs = [
 		{ headerName: 'ID', field: 'id', hide: true },
