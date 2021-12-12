@@ -1,0 +1,102 @@
+/* .App {
+	text-align: left;
+	padding: 1%;} 
+	.wrapper {
+		padding: 20px;
+	}
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: box-border;
+}
+
+body {
+	padding: 2rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
+}
+
+.App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.App-link {
+	color: #61dafb;
+}
+/* .ag-body-viewport {
+	overflow-y: scroll !important;
+} */
+
+button {
+	margin: 2rem 0;
+	padding: 1rem 2rem;
+	width: 120px;
+	cursor: pointer;
+}
+
+img {
+	width: 36px;
+	margin-right: .5em;
+	border-radius: 4px;
+}
+
+.profile {
+	text-align: left;
+	padding: 2em;
+}
+
+.email-nav {
+	padding-right: 1em;
+}
+
+.table-nav {
+	text-align: center;
+	width: 33%;
+	margin: auto;
+	border: 4 px solid #1976d2 !important;
+	border-radius: 4 px;
+}
+
+.table-nav a {
+	color: #fff;
+	font-weight: bold;
+}
+
+.table-nav button {
+	margin: 1em;
+}
+
+.table-nav ui {
+	list-style: none !important;
+}
+
+a.dropdown-link {
+	text-transform: uppercase !important;
+	text-decoration: none;
+	font-size: .9em;
+	color: #3f51b5;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+	background-color: #3f51b5 !important;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root a {
+	color: #fff !important;
+	padding-left: 1em;
+	padding-right: .1em;
+	font-size: .7em;
+}

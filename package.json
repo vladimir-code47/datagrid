@@ -1,5 +1,6 @@
 {
-	"name": "ag-grid",
+	"homepage": "http://vladimir-code47.github.io/datagrid",
+	"name": "datagrid",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
