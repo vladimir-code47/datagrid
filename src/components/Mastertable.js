@@ -21,7 +21,7 @@ export default function MasterTable() {
 		setOpen(false);
 		setFormData(initialValue);
 	};
-	const url = `http://localhost:8000/users`;
+	const url = `https://boa-datagrid-json.herokuapp.com/api`;
 
 	/* const columnDefs = [
 		{ headerName: 'ID', field: 'id', hide: true },
