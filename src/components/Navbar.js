@@ -38,10 +38,42 @@ const Navbar = () => {
 							BOA-SHEDULER
 						</Typography>
 						<Typography edge="start" variant="h6" component="div" sx={{ flexGrow: 1 }}>
-							<Link to="/">Home</Link>
-							<Link to="/master-table">Master Table</Link>
-							<Link to="/employee-table">Employee Table</Link>
 							<Link
+								style={{
+									textDecoration: 'none',
+									color: '#fff !important',
+									paddingRight: '1em !important'
+								}}
+								to="/"
+							>
+								Home
+							</Link>
+							<Link
+								style={{
+									textDecoration: 'none',
+									color: '#fff !important',
+									paddingRight: '1em !important'
+								}}
+								to="/master-table"
+							>
+								Master Table
+							</Link>
+							<Link
+								style={{
+									textDecoration: 'none',
+									color: '#fff !important',
+									paddingRight: '1em !important'
+								}}
+								to="/employee-table"
+							>
+								Employee Table
+							</Link>
+							<Link
+								style={{
+									textDecoration: 'none',
+									color: '#fff !important',
+									paddingRight: '1em !important'
+								}}
 								id="basic-button"
 								aria-controls="basic-menu"
 								aria-haspopup="true"
@@ -51,7 +83,16 @@ const Navbar = () => {
 							>
 								Brand Table
 							</Link>
-							<Link to="/store-table">Store Table</Link>
+							<Link
+								style={{
+									textDecoration: 'none',
+									color: '#fff !important',
+									paddingRight: '1em !important'
+								}}
+								to="/store-table"
+							>
+								Store Table
+							</Link>
 							<Menu
 								className="dropdown-link"
 								id="basic-menu"

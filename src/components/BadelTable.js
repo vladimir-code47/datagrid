@@ -22,7 +22,7 @@ export default function BadelTable() {
 		setOpen(false);
 		setFormData(initialValue);
 	};
-	const url = `http://localhost:4700/users`;
+	const url = `https://boa-heroku-json-server.herokuapp.com/users`;
 
 	// calling getUsers function for first time
 	useEffect(() => {
