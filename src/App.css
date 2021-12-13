@@ -100,3 +100,9 @@ a.dropdown-link {
 	padding-right: .1em;
 	font-size: .7em;
 }
+
+.headerLink {
+	text-decoration: none;
+	color: #fff !important;
+	padding-right: 0.7em !important;
+}
